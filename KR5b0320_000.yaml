@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR5b0320/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 赤松子章曆
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-29 00:16:17.966356'
+  source:
+    repository: kanripo
+    path: KR5b0320/KR5b0320_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:37f12f270a697d0f0a702aa99e7d5fd5d90e02278b60b7b6b0c5e5f9b82e18b7
